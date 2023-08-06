@@ -69,11 +69,11 @@
                 <div class="col-md-8">
                     <div class="main_menu">
                         <ul>
-                            <li><a href="index.php">Home</a></li>
-                            <li><a href="service.php">Our Service</a></li>
-                            <li><a href="course.php">Course</a></li>
-                            <li><a href="industrialtraining.php">Industrial Traning</a></li>
-                            <li><a href="contact.php">Contact</a></li>
+                            <li><a href="../index.php">Home</a></li>
+                            <li><a href="../service.php">Our Service</a></li>
+                            <li><a href="../course.php">Course</a></li>
+                            <li><a href="../industrialtraining.php">Industrial Traning</a></li>
+                            <li><a href="../contact.php">Contact</a></li>
 
                         </ul>
                     </div>

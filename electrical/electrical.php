@@ -139,11 +139,11 @@
                         <h2>Page</h2>
                         <div class="footer-page">
                             <ul>
-                                <li><a href="index.html">Home</a></li>
-                                <li><a href="service.html">Our Service</a></li>
-                                <li><a href="course.html">Course</a></li>
-                                <li><a href="industrialtraining.html">Industrial Traning</a></li>
-                                <li><a href="contact.html">Contact</a></li>
+                                <li><a href="../index.php">Home</a></li>
+                                <li><a href="../service.php">Our Service</a></li>
+                                <li><a href="../course.php">Course</a></li>
+                                <li><a href="../industrialtraining.php">Industrial Traning</a></li>
+                                <li><a href="../contact.php">Contact</a></li>
                             </ul>
                         </div>
                     </div>
