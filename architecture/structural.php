@@ -27,28 +27,6 @@
     <!-- Responsive css -->
     <link rel="stylesheet" href="../assets/css/responsive.css" />
 
-    <style>
-        .service-text {
-            display: flex;
-            flex-direction: column;
-            color: white;
-        }
-
-        .service-text h2 {
-            color: white;
-        }
-
-        .service-text a {
-            line-height: 26px;
-            font-size: 18px !important;
-            color: #fff !important;
-            margin-top: 10px;
-        }
-
-        .service-text a:hover {
-            color: #000 !important;
-        }
-    </style>
 
 </head>
 
@@ -70,11 +48,11 @@
                 <div class="col-md-8">
                     <div class="main_menu">
                         <ul>
-                            <li><a href="../index.php">Home</a></li>
-                            <li><a href="../service.php">Our Service</a></li>
-                            <li><a href="../course.php">Course</a></li>
-                            <li><a href="../industrialtraining.php">Industrial Traning</a></li>
-                            <li><a href="../contact.php">Contact</a></li>
+                            <li><a href="index.php">Home</a></li>
+                            <li><a href="service.php">Our Service</a></li>
+                            <li><a href="course.php">Course</a></li>
+                            <li><a href="industrialtraining.php">Industrial Traning</a></li>
+                            <li><a href="contact.php">Contact</a></li>
 
                         </ul>
                     </div>
@@ -89,33 +67,12 @@
         <div class="container">
             <div class="col-md-12">
                 <div class="section-heading service-area-heading">
-                    <h2>Civil Technology</h2>
+                    <h2>Computer Details</h2>
                 </div>
             </div>
         </div>
         <div class="container">
-            <div class="row">
-                <div class="col-md-6 col-sm-6">
-                    <div class="our-service-image">
-                        <img src="../assets/images/service/civil.jpg" alt="Computer technology" />
-                    </div>
-                </div>
-                <div class="col-md-6 col-sm-6">
-                    <div class="service-text">
-                        <h2>Civil/Architecture</h2>
-                        <a href="architecture.php">Architectural Design</a>
-                        <a href="structural.php">Structural Design</a>
-                        <a href="interior.php">Interior Design</a>
-                        <a href="exterior.php">Exterior Design</a>
-                        <a href="site-visit.php">Site Supervision / Site Visit</a>
-                        <a href="animation.php">3D View and Animation</a>
-                        <a href="3d-florr.php">3D Floor Plan</a>
-                        <a href="sketch.php">Sketch UP</a>
-                        <a href="lumion.php">Lumion</a>
-                        <a href="industrial.php">Industrial Traning</a>
-                    </div>
-                </div>
-            </div>
+
         </div>
     </div>
     </div>

@@ -27,7 +27,28 @@
     <!-- Responsive css -->
     <link rel="stylesheet" href="../assets/css/responsive.css" />
 
+    <style>
+        .service-text {
+            display: flex;
+            flex-direction: column;
+            color: white;
+        }
 
+        .service-text h2 {
+            color: white;
+        }
+
+        .service-text a {
+            line-height: 26px;
+            font-size: 18px !important;
+            color: #fff !important;
+            margin-top: 10px;
+        }
+
+        .service-text a:hover {
+            color: #000 !important;
+        }
+    </style>
 </head>
 
 <body>
@@ -79,18 +100,18 @@
                     </div>
                 </div>
                 <div class="col-md-6 col-sm-6">
-                    <div class="our-service-text">
+                    <div class="service-text">
                         <h2>Architecture</h2>
-                        <p>Architectural Design</p>
-                        <p>Structural Design</p>
-                        <p>Interior Design</p>
-                        <p>Exterior Design</p>
-                        <p>Site Supervision / Site Visit</p>
-                        <p>3D View and Animation</p>
-                        <p>3D Floor Plan</p>
-                        <p>Sketch UP</p>
-                        <p>Lumion</p>
-                        <p>Industrial Traning</p>
+                        <a href="architecture.php">Architectural Design</a>
+                        <a href="structural.php">Structural Design</a>
+                        <a href="interior.php">Interior Design</a>
+                        <a href="exterior.php">Exterior Design</a>
+                        <a href="site-visit.php">Site Supervision / Site Visit</a>
+                        <a href="animation.php">3D View and Animation</a>
+                        <a href="3d-florr.php">3D Floor Plan</a>
+                        <a href="sketch.php">Sketch UP</a>
+                        <a href="lumion.php">Lumion</a>
+                        <a href="industrial.php">Industrial Traning</a>
                     </div>
                 </div>
             </div>
