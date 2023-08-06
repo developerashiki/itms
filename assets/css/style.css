@@ -407,15 +407,12 @@ img.card-img-top.ele {
 	/* color:#fff; */
 /* } */
 .our-service-text a {
-	font-size:18px;
-	color:#fff;
+	font-size:18px!important;
+	color:#fff!important;
 }
 .service-area-heading h2 {
 	color:#fff;
 }
-
-
-
 
 
 

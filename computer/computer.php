@@ -27,7 +27,28 @@
     <!-- Responsive css -->
     <link rel="stylesheet" href="../assets/css/responsive.css" />
 
+    <style>
+        .service-text {
+            display: flex;
+            flex-direction: column;
+            color: white;
+        }
 
+        .service-text h2 {
+            color: white;
+        }
+
+        .service-text a {
+            line-height: 37px;
+            font-size: 18px !important;
+            color: #fff !important;
+            margin-top: 10px;
+        }
+
+        .service-text a:hover {
+            color: #000 !important;
+        }
+    </style>
 </head>
 
 <body>
@@ -79,15 +100,15 @@
                     </div>
                 </div>
                 <div class="col-md-6 col-sm-6">
-                    <div class="our-service-text">
+                    <div class="service-text">
                         <h2>Computer Technology</h2>
                         <a href="webdesign.php">Website Design and Development</a>
-                        <p>Data communicaton System</p>
-                        <p>Programming (C++, JAVA, Python)</p>
-                        <p>Online Banking System Service</p>
-                        <p>Microprocessor and Microcontroller</p>
-                        <p>Networking</p>
-                        <p>Industrial Traning</p>
+                        <a href="communication.php">Data communicaton System</a>
+                        <a href="programming.php">Programming (C++, JAVA, Python)</a>
+                        <a href="banking.php">Online Banking System Service</a>
+                        <a href="microprossor.php">Microprocessor and Microcontroller</a>
+                        <a href="networking.php">Networking</a>
+                        <a href="industrial.php">Industrial Traning</a>
                     </div>
                 </div>
             </div>
@@ -117,11 +138,11 @@
                         <h2>Page</h2>
                         <div class="footer-page">
                             <ul>
-                                <li><a href="index.html">Home</a></li>
-                                <li><a href="service.html">Our Service</a></li>
-                                <li><a href="course.html">Course</a></li>
-                                <li><a href="industrialtraining.html">Industrial Traning</a></li>
-                                <li><a href="contact.html">Contact</a></li>
+                                <li><a href="../index.php">Home</a></li>
+                                <li><a href="../service.php">Our Service</a></li>
+                                <li><a href="../course.php">Course</a></li>
+                                <li><a href="../industrialtraining.php">Industrial Traning</a></li>
+                                <li><a href="../contact.php">Contact</a></li>
                             </ul>
                         </div>
                     </div>
