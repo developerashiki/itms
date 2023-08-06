@@ -140,6 +140,19 @@ input{
 	text-transform:uppercase;
 }
 
+/****************************/
+/************Service css****************/
+/****************************/
+h5 .card-title .service_title {
+    margin-bottom: .75rem;
+    font-size: 15px!important;
+}
+img.card-img-top.ele {
+    height: 143px!important;
+}
+
+
+
 /*****************************************************/
 /*************     Home Page     ********************/
 /*****************************************************/
@@ -585,8 +598,6 @@ input{
 .coming-institute ul li p i {
 	color: #037CCE;
 }
-
-
 
 
 

@@ -65,72 +65,73 @@
 	<!-- our service area -->
 	<div class="our-service-area section-padding">
 		<div class="container">
+			<div class="col-md-12">
+				<div class="section-heading service-area-heading">
+					<h2>Our Service</h2>
+				</div>
+			</div>
+		</div>
+		<div class="container">
 			<div class="row">
-				<div class="col-md-12">
-					<div class="section-heading service-area-heading">
-						<h2>Our Service</h2>
+				<div class="col-md-3">
+					<div class="card">
+						<div class="card-body">
+							<img src="assets/images/service/cm1.jpg" class="card-img-top" alt="...">
+							<div class="text-center mb-3">
+								<div>
+									<h5 class="card-title" style="font-size:21px">Computer Technology</h5>
+									<!-- <p class="card-text">With supporting text below as a natural lead-in to additional content.</p> -->
+									<a href="#" class="btn btn-primary">Details</a>
+								</div>
+							</div>
+						</div>
 					</div>
 				</div>
-
-				<div class="col-md-6 col-sm-6">
-					<div class="our-service-image">
-						<img src="assets/images/service/cm1.jpg" alt="Computer technology" />
+				<div class="col-md-3">
+					<div class="card">
+						<div class="card-body h-100">
+							<img src="assets/images/service/cm1.jpg" class="card-img-top" alt="...">
+							<div class="text-center mb-3">
+								<div>
+									<h5 class="card-title" style="font-size:21px">Civil Technology</h5>
+									<!-- <p class="card-text">With supporting text below as a natural lead-in to additional content.</p> -->
+									<a href="#" class="btn btn-primary">Details</a>
+								</div>
+							</div>
+						</div>
 					</div>
 				</div>
-				<div class="col-md-6 col-sm-6">
-					<div class="our-service-text">
-						<h2>Computer Technology</h2>
-						<a href="computer/webdesign.php">Website Design and Development</a>
-						<p>Data communicaton System</p>
-						<p>Programming (C++, JAVA, Python)</p>
-						<p>Online Banking System Service</p>
-						<p>Microprocessor and Microcontroller</p>
-						<p>Networking</p>
-						<p>Industrial Traning</p>
+				<div class="col-md-3">
+					<div class="card">
+						<div class="card-body h-100">
+							<img src="assets/images/service/civil.jpg" class="card-img-top" height="140" alt="...">
+							<div class="text-center mb-3">
+								<div>
+									<h5 class="card-title" style="font-size:21px">Electrical Technology</h5>
+									<!-- <p class="card-text">With supporting text below as a natural lead-in to additional content.</p> -->
+									<a href="#" class="btn btn-primary">Details</a>
+								</div>
+							</div>
+						</div>
 					</div>
 				</div>
-
-				<div class="col-md-6 col-sm-6">
-					<div class="our-service-text">
-						<h2>Electrical Technology</h2>
-						<p>PLC and Industrial Automation</p>
-						<p>Star-Delta Connection</p>
-						<p>Water Level Indicator</p>
-						<p>Motor Rewinding</p>
-						<p>Single pole Double Throw (SPDT)</p>
-						<p>Double pole Double Throw (DPDT)</p>
-						<p>Industrial Traning</p>
-						<p></p>
-					</div>
-				</div>
-				<div class="col-md-6 col-sm-6">
-					<div class="our-service-image">
-						<img src="assets/images/service/e2.jpg" alt="Computer technology" />
-					</div>
-				</div>
-
-				<div class="col-md-6 col-sm-6">
-					<div class="our-service-image">
-						<img src="assets/images/service/civil.jpg" alt="Computer technology" />
-					</div>
-				</div>
-				<div class="col-md-6 col-sm-6">
-					<div class="our-service-text">
-						<h2>Civil/Architecture</h2>
-						<p>Architectural Design</p>
-						<p>Structural Design</p>
-						<p>Interior Design</p>
-						<p>Exterior Design</p>
-						<p>Site Supervision / Site Visit</p>
-						<p>3D View and Animation</p>
-						<p>3D Floor Plan</p>
-						<p>Sketch UP</p>
-						<p>Lumion</p>
-						<p>Industrial Traning</p>
+				<div class="col-md-3">
+					<div class="card">
+						<div class="card-body h-100">
+							<img src="assets/images/service/e2.jpg" class="card-img-top" height="140" alt="...">
+							<div class="text-center mb-3">
+								<div>
+									<h5 class="card-title" style="font-size:21px">Architecture Technology</h5>
+									<!-- <p class="card-text">With supporting text below as a natural lead-in to additional content.</p> -->
+									<a href="#" class="btn btn-primary">Details</a>
+								</div>
+							</div>
+						</div>
 					</div>
 				</div>
 			</div>
 		</div>
+	</div>
 	</div>
 
 
