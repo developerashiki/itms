@@ -402,7 +402,11 @@ img.card-img-top.ele {
 .our-service-text h2 {
 	color:#fff;
 }
-.our-service-text p {
+/* .our-service-text p { */
+	/* font-size:18px; */
+	/* color:#fff; */
+/* } */
+.our-service-text a {
 	font-size:18px;
 	color:#fff;
 }

@@ -48,11 +48,11 @@
                 <div class="col-md-8">
                     <div class="main_menu">
                         <ul>
-                            <li><a href="index.php">Home</a></li>
-                            <li><a href="service.php">Our Service</a></li>
-                            <li><a href="course.php">Course</a></li>
-                            <li><a href="industrialtraining.php">Industrial Traning</a></li>
-                            <li><a href="contact.php">Contact</a></li>
+                            <li><a href="../index.php">Home</a></li>
+                            <li><a href="../service.php">Our Service</a></li>
+                            <li><a href="../course.php">Course</a></li>
+                            <li><a href="../industrialtraining.php">Industrial Traning</a></li>
+                            <li><a href="../contact.php">Contact</a></li>
 
                         </ul>
                     </div>
@@ -67,27 +67,28 @@
         <div class="container">
             <div class="col-md-12">
                 <div class="section-heading service-area-heading">
-                    <h2>Computer Technology</h2>
+                    <h2>Electrical Technology</h2>
                 </div>
             </div>
         </div>
         <div class="container">
             <div class="row">
                 <div class="col-md-6 col-sm-6">
-                    <div class="our-service-image">
-                        <img src="../assets/images/service/cm1.jpg" alt="Computer technology" />
+                    <div class="our-service-text">
+                        <h2>Electrical Technology</h2>
+                        <p>PLC and Industrial Automation</p>
+                        <p>Star-Delta Connection</p>
+                        <p>Water Level Indicator</p>
+                        <p>Motor Rewinding</p>
+                        <p>Single pole Double Throw (SPDT)</p>
+                        <p>Double pole Double Throw (DPDT)</p>
+                        <p>Industrial Traning</p>
+                        <p></p>
                     </div>
                 </div>
                 <div class="col-md-6 col-sm-6">
-                    <div class="our-service-text">
-                        <h2>Computer Technology</h2>
-                        <a href="webdesign.php">Website Design and Development</a>
-                        <p>Data communicaton System</p>
-                        <p>Programming (C++, JAVA, Python)</p>
-                        <p>Online Banking System Service</p>
-                        <p>Microprocessor and Microcontroller</p>
-                        <p>Networking</p>
-                        <p>Industrial Traning</p>
+                    <div class="our-service-image">
+                        <img src="../assets/images/service/e2.jpg" alt="Computer technology" />
                     </div>
                 </div>
             </div>

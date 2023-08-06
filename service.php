@@ -81,7 +81,7 @@
 								<div>
 									<h5 class="card-title" style="font-size:21px">Computer Technology</h5>
 									<!-- <p class="card-text">With supporting text below as a natural lead-in to additional content.</p> -->
-									<a href="#" class="btn btn-primary">Details</a>
+									<a href="computer/computer.php" class="btn btn-primary">Details</a>
 								</div>
 							</div>
 						</div>
@@ -95,7 +95,7 @@
 								<div>
 									<h5 class="card-title" style="font-size:21px">Civil Technology</h5>
 									<!-- <p class="card-text">With supporting text below as a natural lead-in to additional content.</p> -->
-									<a href="#" class="btn btn-primary">Details</a>
+									<a href="civil/civil.php" class="btn btn-primary">Details</a>
 								</div>
 							</div>
 						</div>
@@ -109,7 +109,7 @@
 								<div>
 									<h5 class="card-title" style="font-size:21px">Electrical Technology</h5>
 									<!-- <p class="card-text">With supporting text below as a natural lead-in to additional content.</p> -->
-									<a href="#" class="btn btn-primary">Details</a>
+									<a href="electrical/electrical.php" class="btn btn-primary">Details</a>
 								</div>
 							</div>
 						</div>
@@ -123,7 +123,7 @@
 								<div>
 									<h5 class="card-title" style="font-size:21px">Architecture Technology</h5>
 									<!-- <p class="card-text">With supporting text below as a natural lead-in to additional content.</p> -->
-									<a href="#" class="btn btn-primary">Details</a>
+									<a href="architecture/architecture.php" class="btn btn-primary">Details</a>
 								</div>
 							</div>
 						</div>

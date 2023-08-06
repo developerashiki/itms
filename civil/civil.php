@@ -48,11 +48,11 @@
                 <div class="col-md-8">
                     <div class="main_menu">
                         <ul>
-                            <li><a href="index.php">Home</a></li>
-                            <li><a href="service.php">Our Service</a></li>
-                            <li><a href="course.php">Course</a></li>
-                            <li><a href="industrialtraining.php">Industrial Traning</a></li>
-                            <li><a href="contact.php">Contact</a></li>
+                            <li><a href="../index.php">Home</a></li>
+                            <li><a href="../service.php">Our Service</a></li>
+                            <li><a href="../course.php">Course</a></li>
+                            <li><a href="../industrialtraining.php">Industrial Traning</a></li>
+                            <li><a href="../contact.php">Contact</a></li>
 
                         </ul>
                     </div>
@@ -67,7 +67,7 @@
         <div class="container">
             <div class="col-md-12">
                 <div class="section-heading service-area-heading">
-                    <h2>Computer Technology</h2>
+                    <h2>Civil Technology</h2>
                 </div>
             </div>
         </div>
@@ -75,18 +75,21 @@
             <div class="row">
                 <div class="col-md-6 col-sm-6">
                     <div class="our-service-image">
-                        <img src="../assets/images/service/cm1.jpg" alt="Computer technology" />
+                        <img src="../assets/images/service/civil.jpg" alt="Computer technology" />
                     </div>
                 </div>
                 <div class="col-md-6 col-sm-6">
                     <div class="our-service-text">
-                        <h2>Computer Technology</h2>
-                        <a href="webdesign.php">Website Design and Development</a>
-                        <p>Data communicaton System</p>
-                        <p>Programming (C++, JAVA, Python)</p>
-                        <p>Online Banking System Service</p>
-                        <p>Microprocessor and Microcontroller</p>
-                        <p>Networking</p>
+                        <h2>Civil/Architecture</h2>
+                        <p>Architectural Design</p>
+                        <p>Structural Design</p>
+                        <p>Interior Design</p>
+                        <p>Exterior Design</p>
+                        <p>Site Supervision / Site Visit</p>
+                        <p>3D View and Animation</p>
+                        <p>3D Floor Plan</p>
+                        <p>Sketch UP</p>
+                        <p>Lumion</p>
                         <p>Industrial Traning</p>
                     </div>
                 </div>
