@@ -62,7 +62,7 @@
             <div class="row">
                 <div class="col-md-4">
                     <div class="logo">
-                        <a href="index.html"><img src="assets/images/logo/logo.png" alt="logo" alt="" /></a>
+                        <a href="../index.php"><img src="../assets/images/logo/logo.png" alt="logo" alt="" /></a>
                         <span><i class="fas fa-bars"></i></span>
                     </div>
                 </div>
