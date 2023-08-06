@@ -26,28 +26,7 @@
     <link rel="stylesheet" href="../assets/css/style.css">
     <!-- Responsive css -->
     <link rel="stylesheet" href="../assets/css/responsive.css" />
-    <style>
-        .service-text {
-            display: flex;
-            flex-direction: column;
-            color: white;
-        }
 
-        .service-text h2 {
-            color: white;
-        }
-
-        .service-text a {
-            line-height: 37px;
-            font-size: 18px !important;
-            color: #fff !important;
-            margin-top: 10px;
-        }
-
-        .service-text a:hover {
-            color: #000 !important;
-        }
-    </style>
 
 </head>
 
@@ -69,11 +48,11 @@
                 <div class="col-md-8">
                     <div class="main_menu">
                         <ul>
-                            <li><a href="../index.php">Home</a></li>
-                            <li><a href="../service.php">Our Service</a></li>
-                            <li><a href="../course.php">Course</a></li>
-                            <li><a href="../industrialtraining.php">Industrial Traning</a></li>
-                            <li><a href="../contact.php">Contact</a></li>
+                            <li><a href="index.php">Home</a></li>
+                            <li><a href="service.php">Our Service</a></li>
+                            <li><a href="course.php">Course</a></li>
+                            <li><a href="industrialtraining.php">Industrial Traning</a></li>
+                            <li><a href="contact.php">Contact</a></li>
 
                         </ul>
                     </div>
@@ -88,31 +67,12 @@
         <div class="container">
             <div class="col-md-12">
                 <div class="section-heading service-area-heading">
-                    <h2>Electrical Technology</h2>
+                    <h2>Computer Details</h2>
                 </div>
             </div>
         </div>
         <div class="container">
-            <div class="row">
-                <div class="col-md-6 col-sm-6">
-                    <div class="service-text">
-                        <h2>Electrical Technology</h2>
-                        <a href="plc.php">PLC and Industrial Automation</a>
-                        <a href="delta-conncetion.php">Star-Delta Connection</a>
-                        <a href="water-level-indicator.php">Water Level Indicator</a>
-                        <a href="motor.php">Motor Rewinding</a>
-                        <a href="spdt.php">Single pole Double Throw (SPDT)</a>
-                        <a href="dpdt.php">Double pole Double Throw (DPDT)</a>
-                        <a href="industrial.php">Industrial Traning</a>
-                        <p></p>
-                    </div>
-                </div>
-                <div class="col-md-6 col-sm-6">
-                    <div class="our-service-image">
-                        <img src="../assets/images/service/e2.jpg" alt="Computer technology" />
-                    </div>
-                </div>
-            </div>
+
         </div>
     </div>
     </div>
