@@ -72,13 +72,11 @@
         <div class="container">
             <div class="col-md-12">
                 <div class="section-heading service-area-heading">
-<<<<<<< HEAD
-
                     <div class="container px-4 lg:px-8 mx-auto max-w-screen-xl text-gray-700">
                         <div class="mt-24 flex flex-col-reverse md:flex-row items-start md:space-x-40">
                             <div data-aos="zoom-in-right" class="md:w-7/12 aos-init aos-animate">
-                                <h1 class="font-title">Web Design & Development Modules</h1>
-                                <p class="text-gray-500 my-5 lg:pr-36">
+                                <h1 class="font-title">Microprocessor and Microcontroller</h1>
+                                <!--   <p class="text-gray-500 my-5 lg:pr-36">
                                     <br>
                                     Course outline:<br>
                                     - Basics of OOP<br>
@@ -100,42 +98,37 @@
                                     - Cohesion, Copling<br>
                                     - Law of demeter<br>
                                     - OOP interview questions discussion
-                                </p>
+                                </p> -->
                             </div>
                         </div>
                     </div>
-=======
-                    <h2>Microprocessor and Microcontroller</h2>
->>>>>>> c674e7276ad37bf0d89214282a8655a8f79e0217
+                    <!-- <h2>Microprocessor and Microcontroller</h2> -->
                 </div>
 
             </div>
         </div>
-<<<<<<< HEAD
     </div>
     <div class="container">
 
     </div>
-=======
-        <div class="container">
-            <p><strong>Microprocessor:</strong> A microprocessor is a general-purpose CPU that is capable of executing a wide range of instructions and performing various tasks. It is designed to handle complex calculations and data processing for general computing purposes. Some key features of microprocessors are</p>
+    <div class="container">
+        <p><strong>Microprocessor:</strong> A microprocessor is a general-purpose CPU that is capable of executing a wide range of instructions and performing various tasks. It is designed to handle complex calculations and data processing for general computing purposes. Some key features of microprocessors are</p>
 
-            <p><strong>Architecture: </strong> Microprocessors typically have complex instruction set architectures (CISC) or reduced instruction set architectures (RISC), allowing them to handle a variety of tasks.</p>
+        <p><strong>Architecture: </strong> Microprocessors typically have complex instruction set architectures (CISC) or reduced instruction set architectures (RISC), allowing them to handle a variety of tasks.</p>
 
-            <p><strong>Application: </strong> Microprocessors are commonly used in personal computers, laptops, servers, smartphones, tablets, and other computing devices where general-purpose computing is required.</p>
+        <p><strong>Application: </strong> Microprocessors are commonly used in personal computers, laptops, servers, smartphones, tablets, and other computing devices where general-purpose computing is required.</p>
 
-            <p><strong>Processing Power: </strong>Microprocessors are optimized for higher clock speeds and better performance in single-threaded tasks.</p>
-        </div>
-        <div class="container">
-            <p><strong>Microcontroller:</strong> A microcontroller is a specialized CPU designed for specific embedded applications. It combines the processor core with memory, input/output interfaces, and peripherals on a single chip. Some key features of microcontrollers are</p>
+        <p><strong>Processing Power: </strong>Microprocessors are optimized for higher clock speeds and better performance in single-threaded tasks.</p>
+    </div>
+    <div class="container">
+        <p><strong>Microcontroller:</strong> A microcontroller is a specialized CPU designed for specific embedded applications. It combines the processor core with memory, input/output interfaces, and peripherals on a single chip. Some key features of microcontrollers are</p>
 
-            <p><strong>Architecture: </strong>Microcontrollers often use a reduced instruction set architecture (RISC) for efficiency and simplicity, as they are optimized for specific tasks.</p>
+        <p><strong>Architecture: </strong>Microcontrollers often use a reduced instruction set architecture (RISC) for efficiency and simplicity, as they are optimized for specific tasks.</p>
 
-            <p><strong>Application: </strong> Microcontrollers are widely used in embedded systems such as home appliances, automotive control systems, industrial automation, consumer electronics, and small-scale devices.</p>
+        <p><strong>Application: </strong> Microcontrollers are widely used in embedded systems such as home appliances, automotive control systems, industrial automation, consumer electronics, and small-scale devices.</p>
 
-            <p><strong>Processing Power: </strong>Microcontrollers may have lower clock speeds compared to microprocessors but are sufficient for the specific tasks they are designed for.</p>
-        </div>
->>>>>>> c674e7276ad37bf0d89214282a8655a8f79e0217
+        <p><strong>Processing Power: </strong>Microcontrollers may have lower clock speeds compared to microprocessors but are sufficient for the specific tasks they are designed for.</p>
+    </div>
     </div>
     </div>
 

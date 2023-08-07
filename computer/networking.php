@@ -72,91 +72,63 @@
         <div class="container">
             <div class="col-md-12">
                 <div class="section-heading service-area-heading">
-<<<<<<< HEAD
 
                     <div class="container px-4 lg:px-8 mx-auto max-w-screen-xl text-gray-700">
                         <div class="mt-24 flex flex-col-reverse md:flex-row items-start md:space-x-40">
                             <div data-aos="zoom-in-right" class="md:w-7/12 aos-init aos-animate">
-                                <h1 class="font-title">Web Design & Development Modules</h1>
-                                <p class="text-gray-500 my-5 lg:pr-36">
-                                    <br>
-                                    Course outline:<br>
-                                    - Basics of OOP<br>
-                                    - Object<br>
-                                    - Class<br>
-                                    - Identity<br>
-                                    - Pillars of OOP<br>
-                                    - Dependency<br>
-                                    - Composition<br>
-                                    - OOP design Principles<br>
-                                    - Encapsulate what varies<br>
-                                    - Program to an Interface, not an implementation<br>
-                                    - Favour composition over inheritance<br>
-                                    - KISS<br>
-                                    - YAGNI<br>
-                                    - DRY<br>
-                                    - SOLID<br>
-                                    - Design principles vs Design patterns<br>
-                                    - Cohesion, Copling<br>
-                                    - Law of demeter<br>
-                                    - OOP interview questions discussion
-                                </p>
+                                <h1 class="font-title">Networking</h1>
+
                             </div>
                         </div>
                     </div>
-=======
-                    <h2>Networking</h2>
->>>>>>> c674e7276ad37bf0d89214282a8655a8f79e0217
+                    <!-- <h2>Networking</h2> -->
                 </div>
 
             </div>
         </div>
-<<<<<<< HEAD
     </div>
     <div class="container">
 
     </div>
-=======
-        <div class="container">
-            <div>
-                <p><strong>Introduction to Computer Networking</strong></p>
-                <ol>
-                    <li>Overview of computer networks and their significance </li>
-                    <li>Network topologies and architectures</li>
-                    <li>OSI and TCP/IP models</li>
-                    <li>Introduction to networking devices (routers, switches, hubs, etc.)</li>
-                    <li>Understanding local area networks (LANs) and wide area networks (WANs)</li>
-                </ol>
-            </div>
-            <div>
-                <p><strong>Network Communication Fundamentals</strong></p>
-                <ol>
-                    <li>Data transmission methods (analog vs. digital)</li>
-                    <li>Data encoding and modulation techniques</li>
-                    <li>Transmission media (twisted-pair cables, fiber optics, wireless)</li>
-                    <li>Network protocols and their role in data communication</li>
-                </ol>
-            </div>
-            <div>
-                <p><strong>Network Devices and Hardware</strong></p>
-                <ol>
-                    <li>Understanding network interface cards (NICs)</li>
-                    <li>Routers, switches, and their functions in a network</li>
-                    <li>Hubs, repeaters, and bridges</li>
-                    <li>Introduction to network appliances (firewalls, load balancers, etc.)</li>
-                </ol>
-            </div>
-            <div>
-                <p><strong>IP Addressing and Subnetting</strong></p>
-                <ol>
-                    <li>Basics of IPv4 and IPv6 addressing</li>
-                    <li>Routing fundamentals and routing tables</li>
-                    <li> Distance vector and link-state routing protocols (e.g., RIP, OSPF)</li>
-                    <li>Static and dynamic routing</li>
-                </ol>
-            </div>
+    <div class="container">
+        <div>
+            <p><strong>Introduction to Computer Networking</strong></p>
+            <ol>
+                <li>Overview of computer networks and their significance </li>
+                <li>Network topologies and architectures</li>
+                <li>OSI and TCP/IP models</li>
+                <li>Introduction to networking devices (routers, switches, hubs, etc.)</li>
+                <li>Understanding local area networks (LANs) and wide area networks (WANs)</li>
+            </ol>
         </div>
->>>>>>> c674e7276ad37bf0d89214282a8655a8f79e0217
+        <div>
+            <p><strong>Network Communication Fundamentals</strong></p>
+            <ol>
+                <li>Data transmission methods (analog vs. digital)</li>
+                <li>Data encoding and modulation techniques</li>
+                <li>Transmission media (twisted-pair cables, fiber optics, wireless)</li>
+                <li>Network protocols and their role in data communication</li>
+            </ol>
+        </div>
+        <div>
+            <p><strong>Network Devices and Hardware</strong></p>
+            <ol>
+                <li>Understanding network interface cards (NICs)</li>
+                <li>Routers, switches, and their functions in a network</li>
+                <li>Hubs, repeaters, and bridges</li>
+                <li>Introduction to network appliances (firewalls, load balancers, etc.)</li>
+            </ol>
+        </div>
+        <div>
+            <p><strong>IP Addressing and Subnetting</strong></p>
+            <ol>
+                <li>Basics of IPv4 and IPv6 addressing</li>
+                <li>Routing fundamentals and routing tables</li>
+                <li> Distance vector and link-state routing protocols (e.g., RIP, OSPF)</li>
+                <li>Static and dynamic routing</li>
+            </ol>
+        </div>
+    </div>
     </div>
     </div>
 

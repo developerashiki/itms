@@ -76,7 +76,7 @@
                         <div class="mt-24 flex flex-col-reverse md:flex-row items-start md:space-x-40">
                             <div data-aos="zoom-in-right" class="md:w-7/12 aos-init aos-animate">
                                 <h1 class="font-title">Web Design & Development Modules</h1>
-                                <p class="text-gray-500 my-5 lg:pr-36">
+                                <!--   <p class="text-gray-500 my-5 lg:pr-36">
                                     <br>
                                     Course outline:<br>
                                     - Basics of OOP<br>
@@ -98,11 +98,11 @@
                                     - Cohesion, Copling<br>
                                     - Law of demeter<br>
                                     - OOP interview questions discussion
-                                </p>
+                                </p> -->
                             </div>
                         </div>
                     </div>
-                    <h2>Website Design and Developments</h2>
+                    <!-- <h2>Website Design and Developments</h2> -->
                 </div>
 
             </div>

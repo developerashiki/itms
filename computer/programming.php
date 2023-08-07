@@ -72,92 +72,68 @@
         <div class="container">
             <div class="col-md-12">
                 <div class="section-heading service-area-heading">
-<<<<<<< HEAD
 
                     <div class="container px-4 lg:px-8 mx-auto max-w-screen-xl text-gray-700">
                         <div class="mt-24 flex flex-col-reverse md:flex-row items-start md:space-x-40">
                             <div data-aos="zoom-in-right" class="md:w-7/12 aos-init aos-animate">
-                                <h1 class="font-title">Web Design & Development Modules</h1>
-                                <p class="text-gray-500 my-5 lg:pr-36">
-                                    <br>
-                                    Course outline:<br>
-                                    - Basics of OOP<br>
-                                    - Object<br>
-                                    - Class<br>
-                                    - Identity<br>
-                                    - Pillars of OOP<br>
-                                    - Dependency<br>
-                                    - Composition<br>
-                                    - OOP design Principles<br>
-                                    - Encapsulate what varies<br>
-                                    - Program to an Interface, not an implementation<br>
-                                    - Favour composition over inheritance<br>
-                                    - KISS<br>
-                                    - YAGNI<br>
-                                    - DRY<br>
-                                    - SOLID<br>
-                                    - Design principles vs Design patterns<br>
-                                    - Cohesion, Copling<br>
-                                    - Law of demeter<br>
-                                    - OOP interview questions discussion
-                                </p>
+                                <h1 class="font-title">Programming (C++, JAVA, Python)</h1>
+
                             </div>
                         </div>
                     </div>
-=======
-                    <h2>Programming (C++, JAVA, Python)</h2>
->>>>>>> c674e7276ad37bf0d89214282a8655a8f79e0217
+
+                    <!-- <h2>Programming (C++, JAVA, Python)</h2> -->
+
                 </div>
 
             </div>
         </div>
-<<<<<<< HEAD
+
     </div>
     <div class="container">
 
     </div>
-=======
-        <div class="container">
-            <div>
-                <p><strong>Introduction to Programming</strong></p>
-                <ol>
-                    <li>Overview of programming concepts</li>
-                    <li>Understanding algorithms and pseudocode</li>
-                    <li>Introduction to IDEs and code editors</li>
-                    <li>Setting up the development environment for each language</li>
-                </ol>
-            </div>
-            <div>
-                <p><strong>Basic Programming Constructs</strong></p>
-                <ol>
-                    <li>Variables, data types, and type conversions</li>
-                    <li>Operators and expressions</li>
-                    <li>Control structures: If-else, loops (for, while)</li>
-                    <li>Arrays and collections</li>
-                    <li>Functions and procedures</li>
-                </ol>
-            </div>
-            <div>
-                <p><strong>Object-Oriented Programming (OOP)</strong></p>
-                <ol>
-                    <li>Introduction to OOP principles (encapsulation, inheritance, polymorphism)</li>
-                    <li>Classes and objects</li>
-                    <li>Constructors and destructors</li>
-                    <li>Method overloading and overriding</li>
-                    <li>Access control (public, private, protected)</li>
-                    <li>Abstract classes and interfaces</li>
-                </ol>
-            </div>
-            <div>
-                <p><strong>File Handling</strong></p>
-                <ol>
-                    <li>Reading from and writing to files</li>
-                    <li>Text file processing</li>
-                    <li>Binary file handling</li>
-                </ol>
-            </div>
+
+    <div class="container">
+        <div>
+            <p><strong>Introduction to Programming</strong></p>
+            <ol>
+                <li>Overview of programming concepts</li>
+                <li>Understanding algorithms and pseudocode</li>
+                <li>Introduction to IDEs and code editors</li>
+                <li>Setting up the development environment for each language</li>
+            </ol>
         </div>
->>>>>>> c674e7276ad37bf0d89214282a8655a8f79e0217
+        <div>
+            <p><strong>Basic Programming Constructs</strong></p>
+            <ol>
+                <li>Variables, data types, and type conversions</li>
+                <li>Operators and expressions</li>
+                <li>Control structures: If-else, loops (for, while)</li>
+                <li>Arrays and collections</li>
+                <li>Functions and procedures</li>
+            </ol>
+        </div>
+        <div>
+            <p><strong>Object-Oriented Programming (OOP)</strong></p>
+            <ol>
+                <li>Introduction to OOP principles (encapsulation, inheritance, polymorphism)</li>
+                <li>Classes and objects</li>
+                <li>Constructors and destructors</li>
+                <li>Method overloading and overriding</li>
+                <li>Access control (public, private, protected)</li>
+                <li>Abstract classes and interfaces</li>
+            </ol>
+        </div>
+        <div>
+            <p><strong>File Handling</strong></p>
+            <ol>
+                <li>Reading from and writing to files</li>
+                <li>Text file processing</li>
+                <li>Binary file handling</li>
+            </ol>
+        </div>
+    </div>
     </div>
     </div>
 
