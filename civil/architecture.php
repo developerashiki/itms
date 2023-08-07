@@ -72,7 +72,6 @@
         <div class="container">
             <div class="col-md-12">
                 <div class="section-heading service-area-heading">
-<<<<<<< HEAD
 
                     <div class="container px-4 lg:px-8 mx-auto max-w-screen-xl text-gray-700">
                         <div class="mt-24 flex flex-col-reverse md:flex-row items-start md:space-x-40">
@@ -104,40 +103,38 @@
                             </div>
                         </div>
                     </div>
-=======
+
                     <h2>Architectural Design</h2>
->>>>>>> c674e7276ad37bf0d89214282a8655a8f79e0217
+
                 </div>
 
             </div>
         </div>
-<<<<<<< HEAD
+
     </div>
     <div class="container">
 
     </div>
-=======
-        <div class="container">
-            <div>
-                <p><strong>Project Brief and Requirements:</strong>Understand the project's purpose, scope, and requirements. This includes the functional needs of the building, the target audience, budget constraints, and any specific regulations or codes that must be adhered to.</p>
-            </div>
-            <div>
-                <p><strong> Site Analysis:</strong>Conduct a thorough analysis of the site where the building will be constructed. Consider factors like climate, topography, surroundings, and accessibility.</p>
-            </div>
-            <div>
-                <p><strong> Conceptual Design:</strong>Develop the initial design concepts that capture the main ideas and vision for the building. This stage involves sketches, diagrams, and 3D models to explore various possibilities.</p>
-            </div>
-            <div>
-                <p><strong> Schematic Design:</strong>Refine the conceptual design into a more detailed and coherent plan. Identify key spaces, functions, and relationships within the building. Begin to consider the materials, structural systems, and overall layout.</p>
-            </div>
-            <div>
-                <p><strong>Bidding and Contractor Selection:</strong>Release the construction documents to potential contractors who will bid on the project. Evaluate the bids and select the contractor for the construction phase.</p>
-            </div>
-            <div>
-                <p><strong> Post-Construction Evaluation:</strong>After completion, evaluate the building's performance, functionality, and user satisfaction. Address any issues or improvements that may arise.</p>
-            </div>
+    <div class="container">
+        <div>
+            <p><strong>Project Brief and Requirements:</strong>Understand the project's purpose, scope, and requirements. This includes the functional needs of the building, the target audience, budget constraints, and any specific regulations or codes that must be adhered to.</p>
         </div>
->>>>>>> c674e7276ad37bf0d89214282a8655a8f79e0217
+        <div>
+            <p><strong> Site Analysis:</strong>Conduct a thorough analysis of the site where the building will be constructed. Consider factors like climate, topography, surroundings, and accessibility.</p>
+        </div>
+        <div>
+            <p><strong> Conceptual Design:</strong>Develop the initial design concepts that capture the main ideas and vision for the building. This stage involves sketches, diagrams, and 3D models to explore various possibilities.</p>
+        </div>
+        <div>
+            <p><strong> Schematic Design:</strong>Refine the conceptual design into a more detailed and coherent plan. Identify key spaces, functions, and relationships within the building. Begin to consider the materials, structural systems, and overall layout.</p>
+        </div>
+        <div>
+            <p><strong>Bidding and Contractor Selection:</strong>Release the construction documents to potential contractors who will bid on the project. Evaluate the bids and select the contractor for the construction phase.</p>
+        </div>
+        <div>
+            <p><strong> Post-Construction Evaluation:</strong>After completion, evaluate the building's performance, functionality, and user satisfaction. Address any issues or improvements that may arise.</p>
+        </div>
+    </div>
     </div>
     </div>
 
