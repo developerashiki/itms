@@ -72,6 +72,7 @@
         <div class="container">
             <div class="col-md-12">
                 <div class="section-heading service-area-heading">
+<<<<<<< HEAD
 
                     <div class="container px-4 lg:px-8 mx-auto max-w-screen-xl text-gray-700">
                         <div class="mt-24 flex flex-col-reverse md:flex-row items-start md:space-x-40">
@@ -103,14 +104,54 @@
                             </div>
                         </div>
                     </div>
+=======
+                    <h2>Data communicaton System</h2>
+>>>>>>> c674e7276ad37bf0d89214282a8655a8f79e0217
                 </div>
 
             </div>
         </div>
+<<<<<<< HEAD
     </div>
     <div class="container">
 
     </div>
+=======
+        <div class="container">
+            <div>
+                <p><strong>Introduction to Data Communication Systems</strong></p>
+                <ol>
+                    <li>Overview of data communication and its significance</li>
+                    <li>Basic elements of a data communication system</li>
+                    <li>Types of data communication networks (LAN, WAN, MAN, etc.)</li>
+                </ol>
+            </div>
+            <div>
+                <p><strong>Signals and Transmission Media</strong></p>
+                <ol>
+                    <li>Analog and digital signals</li>
+                    <li>Transmission media: guided and unguided (twisted-pair, coaxial, fiber-optic, wireless, etc.)</li>
+                    <li>Signal modulation techniques (amplitude, frequency, phase modulation)</li>
+                </ol>
+            </div>
+            <div>
+                <p><strong>Data Encoding and Multiplexing</strong></p>
+                <ol>
+                    <li>Representing data for transmission (ASCII, Unicode, binary encoding)</li>
+                    <li>Error detection and correction techniques (parity, checksum, CRC)</li>
+                    <li>Signal modulation techniques (amplitude, frequency, phase modulation)</li>
+                    <li>Time-division multiplexing (TDM) and frequency-division multiplexing (FDM)</li>
+                </ol>
+            </div>
+            <div>
+                <p><strong>Data Transmission Concepts</strong></p>
+                <ol type="1">
+                    <li>Overview of transmission protocols (asynchronous, synchronous)</li>
+                    <li>Simplex, half-duplex, and full-duplex communication</li>
+                </ol>
+            </div>
+        </div>
+>>>>>>> c674e7276ad37bf0d89214282a8655a8f79e0217
     </div>
     </div>
 

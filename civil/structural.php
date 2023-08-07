@@ -72,6 +72,7 @@
         <div class="container">
             <div class="col-md-12">
                 <div class="section-heading service-area-heading">
+<<<<<<< HEAD
 
                     <div class="container px-4 lg:px-8 mx-auto max-w-screen-xl text-gray-700">
                         <div class="mt-24 flex flex-col-reverse md:flex-row items-start md:space-x-40">
@@ -103,14 +104,40 @@
                             </div>
                         </div>
                     </div>
+=======
+                    <h2>Structural Design</h2>
+>>>>>>> c674e7276ad37bf0d89214282a8655a8f79e0217
                 </div>
 
             </div>
         </div>
+<<<<<<< HEAD
     </div>
     <div class="container">
 
     </div>
+=======
+        <div class="container">
+            <div>
+                <p><strong>Understanding Project Requirements:</strong>Understand the purpose, function, and intended use of the structure. Consider the type of building or structure, its location, and the loads it will need to support (e.g., dead loads, live loads, wind loads, seismic loads).</p>
+            </div>
+            <div>
+                <p><strong>Structural Analysis:</strong>Conduct a thorough analysis of the loads acting on the structure. This includes calculating the internal forces, stresses, and deformations induced by the loads to determine the structural requirements.</p>
+            </div>
+            <div>
+                <p><strong>Material Selection:</strong>Choose appropriate materials for the construction based on the structural requirements, budget constraints, and environmental considerations. Common materials include concrete, steel, wood, masonry, and composite materials.</p>
+            </div>
+            <div>
+                <p><strong>Designing Load-Bearing Elements:</strong>Design the key load-bearing elements, such as beams, columns, walls, slabs, and foundations, to withstand the loads and forces. Consider factors like the span, depth, and reinforcement of the elements.</p>
+            </div>
+            <div>
+                <p><strong>Structural Systems:</strong>Select the overall structural system that best suits the building's design and requirements. Common structural systems include frame structures, truss systems, arches, and shells.</p>
+            </div>
+            <div>
+                <p><strong>Construction Oversight:</strong>During the construction phase, the structural engineer monitors the implementation of the design and may provide technical support to ensure that the structure is built according to the site</p>
+            </div>
+        </div>
+>>>>>>> c674e7276ad37bf0d89214282a8655a8f79e0217
     </div>
     </div>
 

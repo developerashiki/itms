@@ -72,6 +72,7 @@
         <div class="container">
             <div class="col-md-12">
                 <div class="section-heading service-area-heading">
+<<<<<<< HEAD
 
                     <div class="container px-4 lg:px-8 mx-auto max-w-screen-xl text-gray-700">
                         <div class="mt-24 flex flex-col-reverse md:flex-row items-start md:space-x-40">
@@ -103,14 +104,32 @@
                             </div>
                         </div>
                     </div>
+=======
+                    <h2>Online Banking System Service</h2>
+>>>>>>> c674e7276ad37bf0d89214282a8655a8f79e0217
                 </div>
 
             </div>
         </div>
+<<<<<<< HEAD
     </div>
     <div class="container">
 
     </div>
+=======
+        <div class="container">
+            <div>
+                <p><strong>Account Access:</strong> Customers can log in to their accounts using secure credentials to access information about their accounts, including checking, savings, and credit card balances. Customers can log in to their accounts using secure credentials to access information about their accounts, including checking, savings, and credit card balances.</p>
+                <p><strong> Fund Transfers:</strong> Users can transfer funds between their accounts within the same bank or to other accounts in different banks using electronic fund transfer mechanisms like NEFT, RTGS, or IMPS.</p>
+
+                <p><strong>Bill Payments:</strong> Customers can pay their utility bills, credit card bills, and other payments electronically through the online banking system.</p>
+
+                <p><strong> Account Statements:</strong> Online banking provides access to account statements, transaction history, and balance inquiries, allowing customers to track their finances.</p>
+
+                <p><strong>Mobile Banking:</strong>Many online banking services have dedicated mobile apps that offer similar functionalities, allowing customers to access their accounts on smartphones and tablets.</p>
+            </div>
+        </div>
+>>>>>>> c674e7276ad37bf0d89214282a8655a8f79e0217
     </div>
     </div>
 
