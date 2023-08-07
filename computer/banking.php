@@ -19,8 +19,7 @@
     <!-- <link rel="stylesheet" href="assets/css/fontawesome-all.min.css"> -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" />
     <!-- Bootstrap CSS -->
-    <!-- <link rel="stylesheet" href="../assets/css/bootstrap.min.css"> -->
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <link rel="stylesheet" href="../assets/css/bootstrap.min.css">
     <!-- normalize -->
     <link rel="stylesheet" href="../assets/css/normalize.css">
     <!-- Main Stylesheet -->
@@ -28,18 +27,9 @@
     <!-- Responsive css -->
     <link rel="stylesheet" href="../assets/css/responsive.css" />
     <style>
-        div#v-pills-tab {
-            background: white;
-            border-radius: 5px;
-        }
-
-        div#v-pills-tabContent {
-            color: white;
+        p.text-gray-500.my-5.lg\:pr-36 {
             text-align: left;
-        }
-
-        .d-flex.align-items-start {
-            padding-top: 34px;
+            font-size: 24px;
         }
     </style>
 
@@ -78,36 +68,49 @@
 
 
     <!-- our service area -->
-    <div class="our-service-area section-padding">
+    <div class="section-padding">
         <div class="container">
             <div class="col-md-12">
                 <div class="section-heading service-area-heading">
-                    <h2>Banking Details</h2>
-                    <div class="d-flex align-items-start">
-                        <div class="nav flex-column nav-pills me-3" id="v-pills-tab" role="tablist" aria-orientation="vertical">
-                            <button class="nav-link active" id="v-pills-home-tab" data-bs-toggle="pill" data-bs-target="#v-pills-home" type="button" role="tab" aria-controls="v-pills-home" aria-selected="true">Home</button>
-                            <button class="nav-link" id="v-pills-profile-tab" data-bs-toggle="pill" data-bs-target="#v-pills-profile" type="button" role="tab" aria-controls="v-pills-profile" aria-selected="false">Profile</button>
-                            <button class="nav-link" id="v-pills-messages-tab" data-bs-toggle="pill" data-bs-target="#v-pills-messages" type="button" role="tab" aria-controls="v-pills-messages" aria-selected="false">Messages</button>
-                            <button class="nav-link" id="v-pills-settings-tab" data-bs-toggle="pill" data-bs-target="#v-pills-settings" type="button" role="tab" aria-controls="v-pills-settings" aria-selected="false">Settings</button>
-                        </div>
-                        <div class="tab-content" id="v-pills-tabContent">
-                            <div class="tab-pane fade show active" id="v-pills-home" role="tabpanel" aria-labelledby="v-pills-home-tab">
-                                This is some placeholder content the Home tab's associated content. Clicking another tab will toggle the visibility of this one for the next. The tab JavaScript swaps classes to control the content visibility and styling. You can use it with tabs, pills, and any other .nav-powered navigation.
-                            </div>
-                            <div class="tab-pane fade" id="v-pills-profile" role="tabpanel" aria-labelledby="v-pills-profile-tab">
 
-                                This is some placeholder content the Home tab's associated content. Clicking another tab will toggle the visibility of this one for the next. The tab JavaScript swaps classes to control the content visibility and styling. You can use it with tabs, pills, and any other .nav-powered navigation.
+                    <div class="container px-4 lg:px-8 mx-auto max-w-screen-xl text-gray-700">
+                        <div class="mt-24 flex flex-col-reverse md:flex-row items-start md:space-x-40">
+                            <div data-aos="zoom-in-right" class="md:w-7/12 aos-init aos-animate">
+                                <h1 class="font-title">Web Design & Development Modules</h1>
+                                <p class="text-gray-500 my-5 lg:pr-36">
+                                    <br>
+                                    Course outline:<br>
+                                    - Basics of OOP<br>
+                                    - Object<br>
+                                    - Class<br>
+                                    - Identity<br>
+                                    - Pillars of OOP<br>
+                                    - Dependency<br>
+                                    - Composition<br>
+                                    - OOP design Principles<br>
+                                    - Encapsulate what varies<br>
+                                    - Program to an Interface, not an implementation<br>
+                                    - Favour composition over inheritance<br>
+                                    - KISS<br>
+                                    - YAGNI<br>
+                                    - DRY<br>
+                                    - SOLID<br>
+                                    - Design principles vs Design patterns<br>
+                                    - Cohesion, Copling<br>
+                                    - Law of demeter<br>
+                                    - OOP interview questions discussion
+                                </p>
                             </div>
-                            <div class="tab-pane fade" id="v-pills-messages" role="tabpanel" aria-labelledby="v-pills-messages-tab">...</div>
-                            <div class="tab-pane fade" id="v-pills-settings" role="tabpanel" aria-labelledby="v-pills-settings-tab">...</div>
                         </div>
                     </div>
                 </div>
+
             </div>
         </div>
-        <div class="container">
+    </div>
+    <div class="container">
 
-        </div>
+    </div>
     </div>
     </div>
 
@@ -173,8 +176,7 @@
     <!-- Bootstrap Popper -->
     <script src="../assets/js/popper.js"></script>
     <!-- Bootstrap -->
-    <!-- <script src="../assets/js/bootstrap.min.js"></script> -->
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+    <script src="../assets/js/bootstrap.min.js"></script>
     <!-- Owl Carousel JS -->
     <script src="../assets/js/owl.carousel.min.js"></script>
     <!-- Custom Scripts -->
