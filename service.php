@@ -89,11 +89,11 @@
 				</div>
 				<div class="col-md-3">
 					<div class="card">
-						<div class="card-body h-100">
-							<img src="assets/images/service/cm1.jpg" class="card-img-top" alt="...">
+						<div class="card-body" id="civil">
+							<img src="assets/images/civil.jpg" class="card-img-top" alt="...">
 							<div class="text-center mb-3">
 								<div>
-									<h5 class="card-title" style="font-size:21px">Civil Technology</h5>
+									<h5 class="card-title" style="font-size:21px"> Civil Technology</h5>
 									<!-- <p class="card-text">With supporting text below as a natural lead-in to additional content.</p> -->
 									<a href="civil/civil.php" class="btn btn-primary">Details</a>
 								</div>

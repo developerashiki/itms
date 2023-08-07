@@ -67,12 +67,48 @@
         <div class="container">
             <div class="col-md-12">
                 <div class="section-heading service-area-heading">
-                    <h2>Computer Details</h2>
+                    <h2>Networking</h2>
                 </div>
             </div>
         </div>
         <div class="container">
-
+            <div>
+                <p><strong>Introduction to Computer Networking</strong></p>
+                <ol>
+                    <li>Overview of computer networks and their significance </li>
+                    <li>Network topologies and architectures</li>
+                    <li>OSI and TCP/IP models</li>
+                    <li>Introduction to networking devices (routers, switches, hubs, etc.)</li>
+                    <li>Understanding local area networks (LANs) and wide area networks (WANs)</li>
+                </ol>
+            </div>
+            <div>
+                <p><strong>Network Communication Fundamentals</strong></p>
+                <ol>
+                    <li>Data transmission methods (analog vs. digital)</li>
+                    <li>Data encoding and modulation techniques</li>
+                    <li>Transmission media (twisted-pair cables, fiber optics, wireless)</li>
+                    <li>Network protocols and their role in data communication</li>
+                </ol>
+            </div>
+            <div>
+                <p><strong>Network Devices and Hardware</strong></p>
+                <ol>
+                    <li>Understanding network interface cards (NICs)</li>
+                    <li>Routers, switches, and their functions in a network</li>
+                    <li>Hubs, repeaters, and bridges</li>
+                    <li>Introduction to network appliances (firewalls, load balancers, etc.)</li>
+                </ol>
+            </div>
+            <div>
+                <p><strong>IP Addressing and Subnetting</strong></p>
+                <ol>
+                    <li>Basics of IPv4 and IPv6 addressing</li>
+                    <li>Routing fundamentals and routing tables</li>
+                    <li> Distance vector and link-state routing protocols (e.g., RIP, OSPF)</li>
+                    <li>Static and dynamic routing</li>
+                </ol>
+            </div>
         </div>
     </div>
     </div>

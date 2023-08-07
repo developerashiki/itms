@@ -67,12 +67,49 @@
         <div class="container">
             <div class="col-md-12">
                 <div class="section-heading service-area-heading">
-                    <h2>Computer Details</h2>
+                    <h2>Programming (C++, JAVA, Python)</h2>
                 </div>
             </div>
         </div>
         <div class="container">
-
+            <div>
+                <p><strong>Introduction to Programming</strong></p>
+                <ol>
+                    <li>Overview of programming concepts</li>
+                    <li>Understanding algorithms and pseudocode</li>
+                    <li>Introduction to IDEs and code editors</li>
+                    <li>Setting up the development environment for each language</li>
+                </ol>
+            </div>
+            <div>
+                <p><strong>Basic Programming Constructs</strong></p>
+                <ol>
+                    <li>Variables, data types, and type conversions</li>
+                    <li>Operators and expressions</li>
+                    <li>Control structures: If-else, loops (for, while)</li>
+                    <li>Arrays and collections</li>
+                    <li>Functions and procedures</li>
+                </ol>
+            </div>
+            <div>
+                <p><strong>Object-Oriented Programming (OOP)</strong></p>
+                <ol>
+                    <li>Introduction to OOP principles (encapsulation, inheritance, polymorphism)</li>
+                    <li>Classes and objects</li>
+                    <li>Constructors and destructors</li>
+                    <li>Method overloading and overriding</li>
+                    <li>Access control (public, private, protected)</li>
+                    <li>Abstract classes and interfaces</li>
+                </ol>
+            </div>
+            <div>
+                <p><strong>File Handling</strong></p>
+                <ol>
+                    <li>Reading from and writing to files</li>
+                    <li>Text file processing</li>
+                    <li>Binary file handling</li>
+                </ol>
+            </div>
         </div>
     </div>
     </div>

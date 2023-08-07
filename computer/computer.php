@@ -89,6 +89,7 @@
             <div class="col-md-12">
                 <div class="section-heading service-area-heading">
                     <h2>Computer Technology</h2>
+
                 </div>
             </div>
         </div>
@@ -101,14 +102,12 @@
                 </div>
                 <div class="col-md-6 col-sm-6">
                     <div class="service-text">
-                        <h2>Computer Technology</h2>
                         <a href="webdesign.php">Website Design and Development</a>
                         <a href="communication.php">Data communicaton System</a>
                         <a href="programming.php">Programming (C++, JAVA, Python)</a>
                         <a href="banking.php">Online Banking System Service</a>
                         <a href="microprossor.php">Microprocessor and Microcontroller</a>
                         <a href="networking.php">Networking</a>
-                        <a href="industrial.php">Industrial Traning</a>
                     </div>
                 </div>
             </div>

@@ -67,7 +67,7 @@
         <div class="container">
             <div class="col-md-12">
                 <div class="section-heading service-area-heading">
-                    <h2>Computer Details</h2>
+                    <h2></h2>
                 </div>
             </div>
         </div>

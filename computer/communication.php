@@ -83,39 +83,43 @@
         <div class="container">
             <div class="col-md-12">
                 <div class="section-heading service-area-heading">
-                    <h2>Communication Details</h2>
-                    <div class="d-flex align-items-start">
-                        <div class="nav flex-column nav-pills me-3" id="v-pills-tab" role="tablist" aria-orientation="vertical">
-                            <button class="nav-link" id="v-pills-home-tab" data-bs-toggle="pill" data-bs-target="#v-pills-home" type="button" role="tab" aria-controls="v-pills-home" aria-selected="true">Home</button>
-                            <button class="nav-link" id="v-pills-profile-tab" data-bs-toggle="pill" data-bs-target="#v-pills-profile" type="button" role="tab" aria-controls="v-pills-profile" aria-selected="false">Profile</button>
-                            <button class="nav-link" id="v-pills-messages-tab" data-bs-toggle="pill" data-bs-target="#v-pills-messages" type="button" role="tab" aria-controls="v-pills-messages" aria-selected="false">Messages</button>
-                            <button class="nav-link" id="v-pills-settings-tab" data-bs-toggle="pill" data-bs-target="#v-pills-settings" type="button" role="tab" aria-controls="v-pills-settings" aria-selected="false">Settings</button>
-                            <button class="nav-link" id="v-pills-home-tab" data-bs-toggle="pill" data-bs-target="#v-pills-home" type="button" role="tab" aria-controls="v-pills-d" aria-selected="true">Home</button>
-                            <button class="nav-link" id="v-pills-profile-tab" data-bs-toggle="pill" data-bs-target="#v-pills-profile" type="button" role="tab" aria-controls="v-pills-profile" aria-selected="false">Profile</button>
-                            <button class="nav-link" id="v-pills-messages-tab" data-bs-toggle="pill" data-bs-target="#v-pills-messages" type="button" role="tab" aria-controls="v-pills-messages" aria-selected="false">Messages</button>
-                            <button class="nav-link" id="v-pills-settings-tab" data-bs-toggle="pill" data-bs-target="#v-pills-settings" type="button" role="tab" aria-controls="v-pills-settings" aria-selected="false">Settings</button>
-                            <button class="nav-link" id="v-pills-home-tab" data-bs-toggle="pill" data-bs-target="#v-pills-home" type="button" role="tab" aria-controls="v-pills-s" aria-selected="true">Home</button>
-                            <button class="nav-link" id="v-pills-profile-tab" data-bs-toggle="pill" data-bs-target="#v-pills-profile" type="button" role="tab" aria-controls="v-pills-profile" aria-selected="false">Profile</button>
-                            <button class="nav-link" id="v-pills-messages-tab" data-bs-toggle="pill" data-bs-target="#v-pills-messages" type="button" role="tab" aria-controls="v-pills-messages" aria-selected="false">Messages</button>
-                            <button class="nav-link" id="v-pills-settings-tab" data-bs-toggle="pill" data-bs-target="#v-pills-settings" type="button" role="tab" aria-controls="v-pills-settings" aria-selected="false">Settings</button>
-                        </div>
-                        <div class="tab-content" id="v-pills-tabContent">
-                            <div class="tab-pane fade show active" id="v-pills-home" role="tabpanel" aria-labelledby="v-pills-home-tab">
-                                This is some placeholder content the Home tab's associated content. Clicking another tab will toggle the visibility of this one for the next. The tab JavaScript swaps classes to control the content visibility and styling. You can use it with tabs, pills, and any other .nav-powered navigation.
-                            </div>
-                            <div class="tab-pane fade" id="v-pills-profile" role="tabpanel" aria-labelledby="v-pills-profile-tab">
-
-                                This is some placeholder content the Home tab's associated content. Clicking another tab will toggle the visibility of this one for the next. The tab JavaScript swaps classes to control the content visibility and styling. You can use it with tabs, pills, and any other .nav-powered navigation.
-                            </div>
-                            <div class="tab-pane fade" id="v-pills-messages" role="tabpanel" aria-labelledby="v-pills-messages-tab">...</div>
-                            <div class="tab-pane fade" id="v-pills-settings" role="tabpanel" aria-labelledby="v-pills-settings-tab">...</div>
-                        </div>
-                    </div>
+                    <h2>Data communicaton System</h2>
                 </div>
             </div>
         </div>
         <div class="container">
-
+            <div>
+                <p><strong>Introduction to Data Communication Systems</strong></p>
+                <ol>
+                    <li>Overview of data communication and its significance</li>
+                    <li>Basic elements of a data communication system</li>
+                    <li>Types of data communication networks (LAN, WAN, MAN, etc.)</li>
+                </ol>
+            </div>
+            <div>
+                <p><strong>Signals and Transmission Media</strong></p>
+                <ol>
+                    <li>Analog and digital signals</li>
+                    <li>Transmission media: guided and unguided (twisted-pair, coaxial, fiber-optic, wireless, etc.)</li>
+                    <li>Signal modulation techniques (amplitude, frequency, phase modulation)</li>
+                </ol>
+            </div>
+            <div>
+                <p><strong>Data Encoding and Multiplexing</strong></p>
+                <ol>
+                    <li>Representing data for transmission (ASCII, Unicode, binary encoding)</li>
+                    <li>Error detection and correction techniques (parity, checksum, CRC)</li>
+                    <li>Signal modulation techniques (amplitude, frequency, phase modulation)</li>
+                    <li>Time-division multiplexing (TDM) and frequency-division multiplexing (FDM)</li>
+                </ol>
+            </div>
+            <div>
+                <p><strong>Data Transmission Concepts</strong></p>
+                <ol type="1">
+                    <li>Overview of transmission protocols (asynchronous, synchronous)</li>
+                    <li>Simplex, half-duplex, and full-duplex communication</li>
+                </ol>
+            </div>
         </div>
     </div>
     </div>

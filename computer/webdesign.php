@@ -67,12 +67,54 @@
         <div class="container">
             <div class="col-md-12">
                 <div class="section-heading service-area-heading">
-                    <h2>Computer Details</h2>
+                    <h2>Website Design and Developments</h2>
                 </div>
             </div>
         </div>
         <div class="container">
-
+            <div>
+                <p><strong>Introduction to Web Technologies</strong></p>
+                <ol>
+                    <li> Overview of the internet and its evolution </li>
+                    <li>Understanding client-server architecture</li>
+                    <li>Basic principles of web development</li>
+                </ol>
+            </div>
+            <div>
+                <p><strong>HTML (Hypertext Markup Language)</strong></p>
+                <ol>
+                    <li> Introduction to HTML and its role in web development </li>
+                    <li>Creating the structure of a web page using HTML tags</li>
+                    <li>Adding text, links, images, and multimedia content</li>
+                    <li>Working with lists, tables, and forms</li>
+                </ol>
+            </div>
+            <div>
+                <p><strong>CSS (Cascading Style Sheets)</strong></p>
+                <ol>
+                    <li>Introduction to CSS and its role in web design</li>
+                    <li>Applying styles to HTML elements</li>
+                    <li>Understanding selectors, properties, and values</li>
+                    <li>Creating layouts, positioning, and responsiveness</li>
+                </ol>
+            </div>
+            <div>
+                <p><strong>JavaScript</strong></p>
+                <ol>
+                    <li>Introduction to JavaScript and its role in web interactivity</li>
+                    <li>Working with variables, data types, and functions</li>
+                    <li>Manipulating the DOM (Document Object Model) for dynamic web content</li>
+                    <li>Handling events and user interactions</li>
+                </ol>
+            </div>
+            <div>
+                <p><strong>Front-End Frameworks</strong></p>
+                <ol>
+                    <li>IIntroduction to popular front-end frameworks like Bootstrap or Foundation</li>
+                    <li>Building responsive and mobile-friendly websites using frameworks</li>
+                    <li>Using pre-built components for efficient development</li>
+                </ol>
+            </div>
         </div>
     </div>
     </div>
