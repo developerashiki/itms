@@ -72,44 +72,33 @@
         <div class="container">
             <div class="col-md-12">
                 <div class="section-heading service-area-heading">
-
-                    <div class="container px-4 lg:px-8 mx-auto max-w-screen-xl text-gray-700">
-                        <div class="mt-24 flex flex-col-reverse md:flex-row items-start md:space-x-40">
-                            <div data-aos="zoom-in-right" class="md:w-7/12 aos-init aos-animate">
-                                <h1 class="font-title">Web Design & Development Modules</h1>
-                                <p class="text-gray-500 my-5 lg:pr-36">
-                                    <br>
-                                    Course outline:<br>
-                                    - Basics of OOP<br>
-                                    - Object<br>
-                                    - Class<br>
-                                    - Identity<br>
-                                    - Pillars of OOP<br>
-                                    - Dependency<br>
-                                    - Composition<br>
-                                    - OOP design Principles<br>
-                                    - Encapsulate what varies<br>
-                                    - Program to an Interface, not an implementation<br>
-                                    - Favour composition over inheritance<br>
-                                    - KISS<br>
-                                    - YAGNI<br>
-                                    - DRY<br>
-                                    - SOLID<br>
-                                    - Design principles vs Design patterns<br>
-                                    - Cohesion, Copling<br>
-                                    - Law of demeter<br>
-                                    - OOP interview questions discussion
-                                </p>
-                            </div>
-                        </div>
-                    </div>
+                    <h1>Motor Rewinding</h1>
                 </div>
 
             </div>
         </div>
     </div>
     <div class="container">
-
+        <p>
+            <strong> Motor Inspection:</strong>
+            The first step is to inspect the motor thoroughly. The motor is disassembled to assess the condition of the windings, stator, rotor, and other components. The type of motor, its size, and the extent of damage are evaluated to determine the appropriate rewinding process.
+        </p>
+        <p>
+            <strong> Removing Old Windings:</strong>
+            Once the motor is disassembled, the old windings are carefully removed from the stator or rotor. This process may involve cutting, unwinding, or using special tools to detach the old winding.
+        </p>
+        <p>
+            <strong> Cleaning and Preparing the Core:</strong>
+            The stator or rotor core is cleaned to remove any dirt, debris, or varnish from the previous winding. Proper cleaning is essential to ensure good adhesion of the new winding and reduce the risk of insulation failure.
+        </p>
+        <p>
+            <strong> Rewinding Process:</strong>
+            The new winding wire is carefully wound around the stator or rotor core. The winding process requires precision to ensure the correct number of turns and the proper alignment of the winding.
+        </p>
+        <p>
+            <strong>Insulation:</strong>
+            Insulation material, such as insulating paper or varnish, is applied between the layers of winding to prevent short circuits and ensure proper electrical insulation.
+        </p>
     </div>
     </div>
     </div>

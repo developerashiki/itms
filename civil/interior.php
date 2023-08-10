@@ -73,43 +73,41 @@
             <div class="col-md-12">
                 <div class="section-heading service-area-heading">
 
-                    <div class="container px-4 lg:px-8 mx-auto max-w-screen-xl text-gray-700">
-                        <div class="mt-24 flex flex-col-reverse md:flex-row items-start md:space-x-40">
-                            <div data-aos="zoom-in-right" class="md:w-7/12 aos-init aos-animate">
-                                <h1 class="font-title">Web Design & Development Modules</h1>
-                                <p class="text-gray-500 my-5 lg:pr-36">
-                                    <br>
-                                    Course outline:<br>
-                                    - Basics of OOP<br>
-                                    - Object<br>
-                                    - Class<br>
-                                    - Identity<br>
-                                    - Pillars of OOP<br>
-                                    - Dependency<br>
-                                    - Composition<br>
-                                    - OOP design Principles<br>
-                                    - Encapsulate what varies<br>
-                                    - Program to an Interface, not an implementation<br>
-                                    - Favour composition over inheritance<br>
-                                    - KISS<br>
-                                    - YAGNI<br>
-                                    - DRY<br>
-                                    - SOLID<br>
-                                    - Design principles vs Design patterns<br>
-                                    - Cohesion, Copling<br>
-                                    - Law of demeter<br>
-                                    - OOP interview questions discussion
-                                </p>
-                            </div>
-                        </div>
-                    </div>
+                    <h1>Interior Design</h1>
                 </div>
 
             </div>
         </div>
     </div>
     <div class="container">
-
+        <div>
+            <p><strong>Project Brief and Requirements:</strong>Understand the project's purpose, scope, and requirements. This includes the functional needs of the building, the target audience, budget constraints, and any specific regulations or codes that must be adhered to.</p>
+        </div>
+        <div>
+            <p>
+                <strong>Site Analysis:</strong>Conduct a thorough analysis of the site where the building will be constructed. Consider factors like climate, topography, surroundings, and accessibility.
+            </p>
+        </div>
+        <div>
+            <p>
+                <strong>Conceptual Design:</strong>Develop the initial design concepts that capture the main ideas and vision for the building. This stage involves sketches, diagrams, and 3D models to explore various possibilities.
+            </p>
+        </div>
+        <div>
+            <p>
+                <strong> Schematic Design:</strong>Refine the conceptual design into a more detailed and coherent plan. Identify key spaces, functions, and relationships within the building. Begin to consider the materials, structural systems, and overall layout.
+            </p>
+        </div>
+        <div>
+            <p>
+                <strong> Design Development:</strong>Further develop the chosen schematic design by adding more technical details. Consider plumbing, electrical systems, heating, ventilation, and air conditioning (HVAC) requirements.
+            </p>
+        </div>
+        <div>
+            <p>
+                <strong> Construction Documents:</strong>Create detailed drawings and specifications that serve as a comprehensive guide for construction. These documents include architectural plans, elevations, sections, and other necessary details.
+            </p>
+        </div>
     </div>
     </div>
     </div>

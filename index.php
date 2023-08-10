@@ -104,10 +104,9 @@
 	<div class="notice-board-area section-padding board-area">
 		<div class="container">
 			<div class="row">
-				<div class="col-md-8 col-sm-12">
+				<div class="col-md-6 col-sm-12">
 					<div class="notice-board">
 						<h2>নোটিশ</h2>
-
 						<div class="notice">
 							<ul>
 								<li>
@@ -133,7 +132,7 @@
 					</div>
 				</div>
 				<!-- important link -->
-				<div class="col-md-4 col-sm-12">
+				<div class="col-md-3 col-sm-12">
 					<div class="important-link">
 						<h2>গুরুত্বপূর্ণ লিংক</h2>
 						<ul>
@@ -145,11 +144,14 @@
 						</ul>
 					</div>
 				</div>
+				<div class="col-md-3 col-sm-12">
+					<div class="important-link">
+						<img class="w-100" src="assets/images/IESDZ (2).jpg" alt="">
+					</div>
+				</div>
 			</div>
 		</div>
 	</div>
-
-
 	<!-- owl-area owl-carousel 
 		<div class="owl-area owl-carousel">
 		<div class="banner-area">
@@ -304,27 +306,53 @@
 				<div class="col-md-6 col-sm-6">
 					<div class="our-service-text">
 						<h2>Computer Technology</h2>
-						<p>Website Design and Development</p>
-						<p>Data communicaton System</p>
-						<p>Programming (C++, JAVA, Python)</p>
-						<p>Online Banking System Service</p>
-						<p>Microprocessor and Microcontroller</p>
-						<p>Networking</p>
-						<p>Industrial Traning</p>
+						<a href="computer/webdesign.php">
+							<p>Website Design and Development</p>
+						</a>
+						<br>
+						<a href="computer/communication.php">
+							<p>Data communicaton System</p>
+						</a>
+						<br>
+						<a href="computer/programming.php">
+							<p>Programming (C++, JAVA, Python)</p>
+						</a>
+						<br>
+						<a href="computer/banking.php">
+							<p>Online Banking System Service</p>
+						</a>
+						<br>
+						<a href="computer/microprossor.php">
+							<p>Microprocessor and Microcontroller</p>
+						</a>
+						<br>
+						<a href="computer/networking.php">
+							<p>Networking</p>
+						</a>
 					</div>
 				</div>
-
 				<div class="col-md-6 col-sm-6">
 					<div class="our-service-text">
 						<h2>Electrical Technology</h2>
-						<p>PLC and Industrial Automation</p>
-						<p>Star-Delta Connection</p>
-						<p>Water Level Indicator</p>
-						<p>Motor Rewinding</p>
-						<p>Single pole Double Throw (SPDT)</p>
-						<p>Double pole Double Throw (DPDT)</p>
-						<p>Industrial Traning</p>
-						<p></p>
+						<a href="electrical/plc.php">
+							<p>PLC and Industrial Automation</p>
+						</a>
+						<br>
+						<a href="electrical/delta-conncetion.php">
+							<p>Star-Delta Connection</p>
+						</a>
+						<br>
+						<a href="electrical/water-level-indicator.php">
+							<p>Water Level Indicator</p>
+						</a>
+						<br>
+						<a href="electrical/motor.php">
+							<p>Motor Rewinding</p>
+						</a>
+						<br>
+						<a href="electrical/spdt.php">
+							<p>Single pole Double Throw (SPDT)</p>
+						</a>
 					</div>
 				</div>
 				<div class="col-md-6 col-sm-6">
@@ -341,16 +369,25 @@
 				<div class="col-md-6 col-sm-6">
 					<div class="our-service-text">
 						<h2>Civil/Architecture</h2>
-						<p>Architectural Design</p>
-						<p>Structural Design</p>
-						<p>Interior Design</p>
-						<p>Exterior Design</p>
-						<p>Site Supervision / Site Visit</p>
-						<p>3D View and Animation</p>
-						<p>3D Floor Plan</p>
-						<p>Sketch UP</p>
-						<p>Lumion</p>
-						<p>Industrial Traning</p>
+						<a href="civil/architecture.php">
+							<p>Architectural Design</p>
+						</a>
+						<br>
+						<a href="civil/structural.php">
+							<p>Structural Design</p>
+						</a>
+						<br>
+						<a href="civil/interior.php">
+							<p>Interior Design</p>
+						</a>
+						<br>
+						<a href="civil/exterior.php">
+							<p>Exterior Design</p>
+						</a>
+						<br>
+						<a href="civil/site-visit.php">
+							<p>Site Supervision / Site Visit</p>
+						</a>
 					</div>
 				</div>
 			</div>
@@ -372,7 +409,6 @@
 				<div class="col-sm-6 col-md-6 col-xl-6 col-lg-6">
 					<div class="about-me-content">
 						<div class="about-me-social">
-
 							<div class="about-social-content">
 								<h6>Industrial Training Management System</h6>
 								<a href="mailto:iffatesd@gmail.com">iffatesd@gmail.com</a>
@@ -399,12 +435,12 @@
 				<div class=" col-sm-6  col-md-6col-xl-6 col-lg-6">
 					<!-- Contact Form -->
 					<div class="contact-box">
-						<form action="#">
+						<form action="store.php" method="POST">
 							<div class="contact-input">
-								<input type="text" placeholder="Name">
-								<input type="email" placeholder="Email">
-								<input type="text" placeholder="Subject">
-								<textarea placeholder="Message"></textarea>
+								<input required type="text" class="form-control" name="name" aria-describedby="emailHelp" placeholder="Name">
+								<input type="text" class="form-control" name="email" aria-describedby="emailHelp" placeholder="E-mail">
+								<input type="text" class="form-control" name="subject" aria-describedby="emailHelp" placeholder="Subject">
+								<textarea type="text" class="form-control" name="message" aria-describedby="emailHelp" placeholder="message" cols="30" rows="10"></textarea>
 							</div>
 							<div class="contact-submit">
 								<input type="submit" value="Send">

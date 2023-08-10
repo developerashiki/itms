@@ -26,12 +26,7 @@
     <link rel="stylesheet" href="../assets/css/style.css">
     <!-- Responsive css -->
     <link rel="stylesheet" href="../assets/css/responsive.css" />
-    <style>
-        p.text-gray-500.my-5.lg\:pr-36 {
-            text-align: left;
-            font-size: 24px;
-        }
-    </style>
+
 
 </head>
 
@@ -68,55 +63,14 @@
 
 
     <!-- our service area -->
-    <div class="section-padding">
+    <div class="our-service-area section-padding">
         <div class="container">
             <div class="col-md-12">
                 <div class="section-heading service-area-heading">
-<<<<<<< HEAD
-
-                    <div class="container px-4 lg:px-8 mx-auto max-w-screen-xl text-gray-700">
-                        <div class="mt-24 flex flex-col-reverse md:flex-row items-start md:space-x-40">
-                            <div data-aos="zoom-in-right" class="md:w-7/12 aos-init aos-animate">
-                                <h1 class="font-title">Web Design & Development Modules</h1>
-                                <p class="text-gray-500 my-5 lg:pr-36">
-                                    <br>
-                                    Course outline:<br>
-                                    - Basics of OOP<br>
-                                    - Object<br>
-                                    - Class<br>
-                                    - Identity<br>
-                                    - Pillars of OOP<br>
-                                    - Dependency<br>
-                                    - Composition<br>
-                                    - OOP design Principles<br>
-                                    - Encapsulate what varies<br>
-                                    - Program to an Interface, not an implementation<br>
-                                    - Favour composition over inheritance<br>
-                                    - KISS<br>
-                                    - YAGNI<br>
-                                    - DRY<br>
-                                    - SOLID<br>
-                                    - Design principles vs Design patterns<br>
-                                    - Cohesion, Copling<br>
-                                    - Law of demeter<br>
-                                    - OOP interview questions discussion
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-=======
                     <h2>Structural Design</h2>
->>>>>>> c674e7276ad37bf0d89214282a8655a8f79e0217
                 </div>
-
             </div>
         </div>
-<<<<<<< HEAD
-    </div>
-    <div class="container">
-
-    </div>
-=======
         <div class="container">
             <div>
                 <p><strong>Understanding Project Requirements:</strong>Understand the purpose, function, and intended use of the structure. Consider the type of building or structure, its location, and the loads it will need to support (e.g., dead loads, live loads, wind loads, seismic loads).</p>
@@ -134,10 +88,9 @@
                 <p><strong>Structural Systems:</strong>Select the overall structural system that best suits the building's design and requirements. Common structural systems include frame structures, truss systems, arches, and shells.</p>
             </div>
             <div>
-                <p><strong>Construction Oversight:</strong>During the construction phase, the structural engineer monitors the implementation of the design and may provide technical support to ensure that the structure is built according to the site</p>
+                <p><strong>Construction Oversight:</strong>During the construction phase, the structural engineer monitors the implementation of the design and may provide technical support to ensure that the structure is built according to thes</p>
             </div>
         </div>
->>>>>>> c674e7276ad37bf0d89214282a8655a8f79e0217
     </div>
     </div>
 

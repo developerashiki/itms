@@ -72,44 +72,38 @@
         <div class="container">
             <div class="col-md-12">
                 <div class="section-heading service-area-heading">
-
-                    <div class="container px-4 lg:px-8 mx-auto max-w-screen-xl text-gray-700">
-                        <div class="mt-24 flex flex-col-reverse md:flex-row items-start md:space-x-40">
-                            <div data-aos="zoom-in-right" class="md:w-7/12 aos-init aos-animate">
-                                <h1 class="font-title">Web Design & Development Modules</h1>
-                                <p class="text-gray-500 my-5 lg:pr-36">
-                                    <br>
-                                    Course outline:<br>
-                                    - Basics of OOP<br>
-                                    - Object<br>
-                                    - Class<br>
-                                    - Identity<br>
-                                    - Pillars of OOP<br>
-                                    - Dependency<br>
-                                    - Composition<br>
-                                    - OOP design Principles<br>
-                                    - Encapsulate what varies<br>
-                                    - Program to an Interface, not an implementation<br>
-                                    - Favour composition over inheritance<br>
-                                    - KISS<br>
-                                    - YAGNI<br>
-                                    - DRY<br>
-                                    - SOLID<br>
-                                    - Design principles vs Design patterns<br>
-                                    - Cohesion, Copling<br>
-                                    - Law of demeter<br>
-                                    - OOP interview questions discussion
-                                </p>
-                            </div>
-                        </div>
-                    </div>
+                    <h1>Exterior Design</h1>
                 </div>
 
             </div>
         </div>
     </div>
     <div class="container">
-
+        <div>
+            <p>
+                <strong>Architectural Style and Concept:</strong>Begin with the conceptualization phase, where the overall design vision and theme for the exterior are developed. Consider the purpose of the building, the target audience, and any specific design requirements or constraints.
+            </p>
+        </div>
+        <div>
+            <p>
+                <strong>Facade Design:</strong>The facade is the most prominent part of the building's exterior. Consider the arrangement of windows, doors, cladding materials, and decorative elements to create an appealing and cohesive facade.
+            </p>
+        </div>
+        <div>
+            <p>
+                <strong>Materials and Finishes:</strong>Select appropriate materials and finishes that not only enhance the aesthetics but also provide durability and weather resistance. Common exterior materials include brick, stone, wood, concrete, glass, metal, and various cladding systems.
+            </p>
+        </div>
+        <div>
+            <p>
+                <strong>Color Palette:</strong>Choose a color palette that complements the architectural style and blends well with the surroundings. Consider the use of accent colors for architectural details and to highlight specific elements.
+            </p>
+        </div>
+        <div>
+            <p>
+                <strong>Roof Design:</strong>Design the roof to complement the overall architectural style. Consider the slope, shape, and materials of the roof to ensure proper drainage and protection from weather elements.
+            </p>
+        </div>
     </div>
     </div>
     </div>

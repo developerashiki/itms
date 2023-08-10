@@ -42,7 +42,7 @@
             line-height: 26px;
             font-size: 18px !important;
             color: #fff !important;
-            margin-top: 10px;
+            margin-top: 19px;
         }
 
         .service-text a:hover {

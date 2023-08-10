@@ -72,44 +72,25 @@
         <div class="container">
             <div class="col-md-12">
                 <div class="section-heading service-area-heading">
-
-                    <div class="container px-4 lg:px-8 mx-auto max-w-screen-xl text-gray-700">
-                        <div class="mt-24 flex flex-col-reverse md:flex-row items-start md:space-x-40">
-                            <div data-aos="zoom-in-right" class="md:w-7/12 aos-init aos-animate">
-                                <h1 class="font-title">Web Design & Development Modules</h1>
-                                <p class="text-gray-500 my-5 lg:pr-36">
-                                    <br>
-                                    Course outline:<br>
-                                    - Basics of OOP<br>
-                                    - Object<br>
-                                    - Class<br>
-                                    - Identity<br>
-                                    - Pillars of OOP<br>
-                                    - Dependency<br>
-                                    - Composition<br>
-                                    - OOP design Principles<br>
-                                    - Encapsulate what varies<br>
-                                    - Program to an Interface, not an implementation<br>
-                                    - Favour composition over inheritance<br>
-                                    - KISS<br>
-                                    - YAGNI<br>
-                                    - DRY<br>
-                                    - SOLID<br>
-                                    - Design principles vs Design patterns<br>
-                                    - Cohesion, Copling<br>
-                                    - Law of demeter<br>
-                                    - OOP interview questions discussion
-                                </p>
-                            </div>
-                        </div>
-                    </div>
+                    <h1>Single pole Double Throw (SPDT)</h1>
                 </div>
 
             </div>
         </div>
     </div>
     <div class="container">
-
+        <p>
+            <strong>Common (COM):</strong>
+            This terminal is the input or the connection point for the incoming signal or power.
+        </p>
+        <p>
+            <strong>Normally Open (NO):</strong>
+            This terminal is one of the two output options. When the switch is in its resting or unactuated position, there is no electrical connection between the COM terminal and the NO terminal.
+        </p>
+        <p>
+            <strong>Normally Closed (NC):</strong>
+            This terminal is the other output option. When the switch is in its resting or unactuated position, there is an electrical connection between the COM terminal and the NC terminal.
+        </p>
     </div>
     </div>
     </div>

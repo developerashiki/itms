@@ -72,44 +72,54 @@
         <div class="container">
             <div class="col-md-12">
                 <div class="section-heading service-area-heading">
-
-                    <div class="container px-4 lg:px-8 mx-auto max-w-screen-xl text-gray-700">
-                        <div class="mt-24 flex flex-col-reverse md:flex-row items-start md:space-x-40">
-                            <div data-aos="zoom-in-right" class="md:w-7/12 aos-init aos-animate">
-                                <h1 class="font-title">Web Design & Development Modules</h1>
-                                <p class="text-gray-500 my-5 lg:pr-36">
-                                    <br>
-                                    Course outline:<br>
-                                    - Basics of OOP<br>
-                                    - Object<br>
-                                    - Class<br>
-                                    - Identity<br>
-                                    - Pillars of OOP<br>
-                                    - Dependency<br>
-                                    - Composition<br>
-                                    - OOP design Principles<br>
-                                    - Encapsulate what varies<br>
-                                    - Program to an Interface, not an implementation<br>
-                                    - Favour composition over inheritance<br>
-                                    - KISS<br>
-                                    - YAGNI<br>
-                                    - DRY<br>
-                                    - SOLID<br>
-                                    - Design principles vs Design patterns<br>
-                                    - Cohesion, Copling<br>
-                                    - Law of demeter<br>
-                                    - OOP interview questions discussion
-                                </p>
-                            </div>
-                        </div>
-                    </div>
+                    <h1>PLC and Industrial Automation</h1>
                 </div>
-
             </div>
         </div>
     </div>
     <div class="container">
-
+        <div>
+            <p>
+                <strong>Programmable Logic Controller (PLC):</strong>
+                A PLC is a digital computing device designed to automate industrial processes. It can control machinery, processes, and equipment based on pre-programmed logic. PLCs consist of a programmable processor, input/output (I/O) modules, communication ports, and memory. They operate using a real-time operating system and are programmed using ladder logic, a graphical programming language based on relay logic diagrams. Key features of PLCs include:
+            </p>
+        </div>
+        <div>
+            <p>
+                <strong>Reliability and Durability:</strong>
+                PLCs are designed to operate in harsh industrial environments and have a high level of reliability and durability.
+            </p>
+        </div>
+        <div>
+            <p>
+                <strong>Progress Monitoring:</strong>
+                Supervisors monitor the progress of construction activities, compare it with the project schedule, and take necessary actions to keep the project on track.
+            </p>
+        </div>
+        <div>
+            <p>
+                <strong>Modularity:</strong>
+                PLCs are modular devices, allowing for easy expansion and customization with various I/O modules based on specific application requirements.
+            </p>
+        </div>
+        <div>
+            <p>
+                <strong>Real-time Control:</strong>
+                PLCs offer real-time control and response, ensuring timely and accurate execution of automation tasks.
+            </p>
+        </div>
+        <div>
+            <p>
+                <strong>Ease of Programming: </strong>
+                PLC programming using ladder logic is relatively easy to learn and understand, even for non-programmers.
+            </p>
+        </div>
+        <div>
+            <p>
+                <strong>Interfacing with Sensors and Actuators: </strong>
+                PLCs interface with various sensors and actuators to gather input data and control the output actions.
+            </p>
+        </div>
     </div>
     </div>
     </div>

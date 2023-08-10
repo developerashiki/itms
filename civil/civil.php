@@ -42,7 +42,7 @@
             line-height: 26px;
             font-size: 18px !important;
             color: #fff !important;
-            margin-top: 10px;
+            margin-top: 19px;
         }
 
         .service-text a:hover {
@@ -102,17 +102,11 @@
                 </div>
                 <div class="col-md-6 col-sm-6">
                     <div class="service-text">
-                        <h2>Civil/Architecture</h2>
                         <a href="architecture.php">Architectural Design</a>
                         <a href="structural.php">Structural Design</a>
                         <a href="interior.php">Interior Design</a>
                         <a href="exterior.php">Exterior Design</a>
                         <a href="site-visit.php">Site Supervision / Site Visit</a>
-                        <a href="animation.php">3D View and Animation</a>
-                        <a href="3d-florr.php">3D Floor Plan</a>
-                        <a href="sketch.php">Sketch UP</a>
-                        <a href="lumion.php">Lumion</a>
-                        <a href="industrial.php">Industrial Traning</a>
                     </div>
                 </div>
             </div>

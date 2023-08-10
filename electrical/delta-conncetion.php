@@ -72,44 +72,20 @@
         <div class="container">
             <div class="col-md-12">
                 <div class="section-heading service-area-heading">
-
-                    <div class="container px-4 lg:px-8 mx-auto max-w-screen-xl text-gray-700">
-                        <div class="mt-24 flex flex-col-reverse md:flex-row items-start md:space-x-40">
-                            <div data-aos="zoom-in-right" class="md:w-7/12 aos-init aos-animate">
-                                <h1 class="font-title">Web Design & Development Modules</h1>
-                                <p class="text-gray-500 my-5 lg:pr-36">
-                                    <br>
-                                    Course outline:<br>
-                                    - Basics of OOP<br>
-                                    - Object<br>
-                                    - Class<br>
-                                    - Identity<br>
-                                    - Pillars of OOP<br>
-                                    - Dependency<br>
-                                    - Composition<br>
-                                    - OOP design Principles<br>
-                                    - Encapsulate what varies<br>
-                                    - Program to an Interface, not an implementation<br>
-                                    - Favour composition over inheritance<br>
-                                    - KISS<br>
-                                    - YAGNI<br>
-                                    - DRY<br>
-                                    - SOLID<br>
-                                    - Design principles vs Design patterns<br>
-                                    - Cohesion, Copling<br>
-                                    - Law of demeter<br>
-                                    - OOP interview questions discussion
-                                </p>
-                            </div>
-                        </div>
-                    </div>
+                    <h1>Star-Delta Connection</h1>
                 </div>
 
             </div>
         </div>
     </div>
     <div class="container">
+        <p><strong>Three-Phase Windings:</strong>In a three-phase AC system, electric motors typically have three sets of windings, each spaced 120 degrees apart. These windings can be connected in two primary configurations: star (Y) and delta (Δ).</p>
 
+        <p><strong>Star Connection (Y):</strong>In a star connection, one end of each winding is connected to a common point called the neutral or star point. The three remaining ends are connected to the respective phases of the three-phase supply. The voltage across each winding in a star connection is reduced to one-third of the line voltage.</p>
+
+        <p><strong>Delta Connection (Δ):</strong>In a delta connection, the three windings are connected in a closed-loop or triangular arrangement. The voltage across each winding in a delta connection is equal to the line voltage.</p>
+
+        <p><strong>Star-Delta Connection (Y-Δ):</strong>The star-delta connection is used for the starting of induction motors. During the starting phase, the motor is initially connected in a star configuration to reduce the starting current and torque. Once the motor reaches a certain speed, it is switched to a delta configuration for normal running. The transition from star to delta connection is typically done using a motor starter or a specialized star-delta starter.</p>
     </div>
     </div>
     </div>

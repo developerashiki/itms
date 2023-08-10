@@ -109,9 +109,6 @@
         </div>
     </div>
     <div class="container">
-
-    </div>
-    <div class="container">
         <div>
             <p><strong>Introduction to Web Technologies</strong></p>
             <ol>

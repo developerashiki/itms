@@ -29,8 +29,6 @@ $conn = mysqli_connect('localhost', 'root', '', 'dbms');
 	<link rel="stylesheet" href="assets/css/style.css">
 	<!-- Responsive css -->
 	<link rel="stylesheet" href="assets/css/responsive.css" />
-
-
 </head>
 
 <body>
@@ -56,7 +54,6 @@ $conn = mysqli_connect('localhost', 'root', '', 'dbms');
 							<li><a href="course.php">Course</a></li>
 							<li><a href="industrialtraining.php">Industrial Traning</a></li>
 							<li><a href="contact.php">Contact</a></li>
-
 						</ul>
 					</div>
 				</div>
@@ -80,7 +77,6 @@ $conn = mysqli_connect('localhost', 'root', '', 'dbms');
 				<div class="col-sm-6 col-md-6 col-xl-6 col-lg-6">
 					<div class="about-me-content">
 						<div class="about-me-social">
-
 							<div class="about-social-content">
 								<h6>Industrial Training Management System</h6>
 
@@ -140,7 +136,6 @@ $conn = mysqli_connect('localhost', 'root', '', 'dbms');
 						</ul>
 					</div>
 				</div>
-
 				<div class="col-md-4 col-sm-4 col-6">
 					<div class="footer-Course">
 						<h2>Page</h2>
@@ -155,7 +150,6 @@ $conn = mysqli_connect('localhost', 'root', '', 'dbms');
 						</div>
 					</div>
 				</div>
-
 				<div class="col-md-4 col-sm-4 col-6">
 					<div class="footer-page">
 						<h2>Facebook Page</h2>
@@ -179,12 +173,6 @@ $conn = mysqli_connect('localhost', 'root', '', 'dbms');
 		</div>
 	</div>
 
-
-
-
-
-
-
 	<!-- Js Files -->
 	<!-- modernizr -->
 	<script src="assets/js/vendor/modernizr-3.5.0.min.js"></script>
@@ -198,8 +186,6 @@ $conn = mysqli_connect('localhost', 'root', '', 'dbms');
 	<script src="assets/js/owl.carousel.min.js"></script>
 	<!-- Custom Scripts -->
 	<script src="assets/js/main.js"></script>
-
-
 </body>
 
 </html>

@@ -71,7 +71,7 @@
 				</div>
 			</div>
 		</div>
-		<div class="container">
+		<div class="container pt-5">
 			<div class="row">
 				<div class="col-md-3">
 					<div class="card">
@@ -89,22 +89,8 @@
 				</div>
 				<div class="col-md-3">
 					<div class="card">
-						<div class="card-body" id="civil">
-							<img src="assets/images/civil.jpg" class="card-img-top" alt="...">
-							<div class="text-center mb-3">
-								<div>
-									<h5 class="card-title" style="font-size:21px"> Civil Technology</h5>
-									<!-- <p class="card-text">With supporting text below as a natural lead-in to additional content.</p> -->
-									<a href="civil/civil.php" class="btn btn-primary">Details</a>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-				<div class="col-md-3">
-					<div class="card">
 						<div class="card-body h-100">
-							<img src="assets/images/service/civil.jpg" class="card-img-top" height="140" alt="...">
+							<img src="assets/images/service/e2.jpg" class="card-img-top" height="140" alt="...">
 							<div class="text-center mb-3">
 								<div>
 									<h5 class="card-title" style="font-size:21px">Electrical Technology</h5>
@@ -118,12 +104,26 @@
 				<div class="col-md-3">
 					<div class="card">
 						<div class="card-body h-100">
-							<img src="assets/images/service/e2.jpg" class="card-img-top" height="140" alt="...">
+							<img src="assets/images/service/civil.jpg" class="card-img-top" height="140" alt="...">
 							<div class="text-center mb-3">
 								<div>
 									<h5 class="card-title" style="font-size:21px">Architecture Technology</h5>
 									<!-- <p class="card-text">With supporting text below as a natural lead-in to additional content.</p> -->
 									<a href="architecture/architecture.php" class="btn btn-primary">Details</a>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-3">
+					<div class="card">
+						<div class="card-body h-100" id="civil">
+							<img src="assets/images/civil.jpg" class="card-img-top" alt="...">
+							<div class="text-center mb-3">
+								<div>
+									<h5 class="card-title" style="font-size:21px"> Civil Technology</h5>
+									<!-- <p class="card-text">With supporting text below as a natural lead-in to additional content.</p> -->
+									<a href="civil/civil.php" class="btn btn-primary">Details</a>
 								</div>
 							</div>
 						</div>

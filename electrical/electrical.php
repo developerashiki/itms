@@ -41,7 +41,7 @@
             line-height: 26px;
             font-size: 18px !important;
             color: #fff !important;
-            margin-top: 10px;
+            margin-top: 19px;
         }
 
         .service-text a:hover {
@@ -96,14 +96,11 @@
             <div class="row">
                 <div class="col-md-6 col-sm-6">
                     <div class="service-text">
-                        <h2>Electrical Technology</h2>
-                        <a href="plc.php">PLC and Industrial Automation</a>
+                        <a href="../plc.php">PLC and Industrial Automation</a>
                         <a href="delta-conncetion.php">Star-Delta Connection</a>
                         <a href="water-level-indicator.php">Water Level Indicator</a>
                         <a href="motor.php">Motor Rewinding</a>
                         <a href="spdt.php">Single pole Double Throw (SPDT)</a>
-                        <a href="dpdt.php">Double pole Double Throw (DPDT)</a>
-                        <a href="industrial.php">Industrial Traning</a>
                         <p></p>
                     </div>
                 </div>
